@@ -1,4 +1,4 @@
-# homework11
+# note_taker
 
 Heroku live url: https://fathomless-inlet-84824.herokuapp.com/notes
 
